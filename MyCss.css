@@ -147,3 +147,6 @@ a.bottomlinks:link{
 a.bottomlinks:visited{
 	color:white;
 }
+a.bottomlinks:hover{
+	color:#6ebd44;
+}
