@@ -141,3 +141,11 @@ body {
 .award {
     background-color: #5d2d7c;
 }
+a.bottomlinks:active{
+	color:white;
+	text-decoration:none;
+}
+a.bottomlinks:visited{
+	color:#6ebd44;
+	text-decoration:none;
+}
